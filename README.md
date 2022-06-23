@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel18dx&show_icons=true&include-all-commits=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel18dx&layout=compact&theme=dark"/>
+  <a href="https://github.com/gabriel18dx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel18dx&show_icons=true&include-all-commits=true&count_private=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel18dx&layout=compact&theme=dark"/>
+  </a>
 </div>
 
 <table border="0">
