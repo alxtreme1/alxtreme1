@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**gabriel18dx/gabriel18dx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel18dx&show_icons=true&include-all-commits=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel18dx&layout=compact&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td>
+      - 🔭 I’m currently working on webdev.<br/>
+      - 🌱 I’m currently learning PHP, Python, C++ and Javascript.<br/>
+      - 👯 I’m looking to collaborate on frontend sites development projects.<br/>
+      - 🤔 I’m looking for help with OneHAPIC project.<br/>
+    </td>
+    <td>
+      - 💬 Ask me about website development.<br/>
+      - 📫 How to reach me: my discord is alx#0059.<br/>
+      - 😄 Pronouns: He/His/Him.<br/>
+      - ⚡ Fun fact: I like my bedroom.<br/>
+    </td>
+  </tr>  
+</table>
