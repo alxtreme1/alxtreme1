@@ -25,3 +25,40 @@
     </td>
   </tr>  
 </table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://gabrieldx.itch.io/">
+        <div>
+          <img src="https://github.com/gabriel18dx/discord.png"> 
+          Discord: alx#5539
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="https://gabrieldx.itch.io/">
+        <div>
+          <img src="https://github.com/gabriel18dx/icons8-itch-io-24.png"> 
+          Itch.io
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/gabrieldx/">
+        <div>
+          <img src="https://github.com/gabriel18dx/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"> 
+          LeetCode
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="https://codepen.io/gabrieldx">
+        <div>
+          <img src="https://github.com/gabriel18dx/icons8-codepen-24.png"> 
+          Codepen
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
