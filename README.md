@@ -26,12 +26,12 @@
   </tr>  
 </table>
 
-<table>
+<table border="0" align="center">
   <tr>
     <td>
-      <a href="https://gabrieldx.itch.io/">
+      <a href="https://discord.com/users/523988377431834635">
         <div>
-          <img src="https://github.com/gabriel18dx/discord.png"> 
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/discord.png"></br>
           Discord: alx#5539
         </div>
       </a>
@@ -39,7 +39,7 @@
     <td>
       <a href="https://gabrieldx.itch.io/">
         <div>
-          <img src="https://github.com/gabriel18dx/icons8-itch-io-24.png"> 
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-itch-io-24.png"></br>
           Itch.io
         </div>
       </a>
@@ -47,7 +47,7 @@
     <td>
       <a href="https://leetcode.com/gabrieldx/">
         <div>
-          <img src="https://github.com/gabriel18dx/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"> 
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"></br>
           LeetCode
         </div>
       </a>
@@ -55,7 +55,7 @@
     <td>
       <a href="https://codepen.io/gabrieldx">
         <div>
-          <img src="https://github.com/gabriel18dx/icons8-codepen-24.png"> 
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-codepen-24.png"></br>
           Codepen
         </div>
       </a>
