@@ -53,6 +53,14 @@
       </a>
     </td>
     <td>
+      <a href="https://www.hackerrank.com/gabrieldx">
+        <div>
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/hackerrank_logo_logos_icon"></br>
+          HackerRank
+        </div>
+      </a>
+    </td>
+    <td>
       <a href="https://codepen.io/gabrieldx">
         <div>
           <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-codepen-24.png"></br>
