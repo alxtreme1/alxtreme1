@@ -55,7 +55,7 @@
     <td>
       <a href="https://www.hackerrank.com/gabrieldx">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/hackerrank_logo_logos_icon"></br>
+          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/hackerrank_logo_logos_icon.png"></br>
           HackerRank
         </div>
       </a>
