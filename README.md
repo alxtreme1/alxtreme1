@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://github.com/gabriel18dx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel18dx&show_icons=true&include-all-commits=true&count_private=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel18dx&layout=compact&theme=dark"/>
+  <a href="https://github.com/alxtreme1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxtreme1&show_icons=true&include-all-commits=true&count_private=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxtreme1&layout=compact&theme=dark"/>
   </a>
 </div>
 
@@ -31,39 +31,39 @@
     <td>
       <a href="https://discord.com/users/523988377431834635">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/discord.png"></br>
+          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/discord.png"></br>
           Discord: alx#5539
         </div>
       </a>
     </td>
     <td>
-      <a href="https://gabrieldx.itch.io/">
+      <a href="https://alxtreme.itch.io/">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-itch-io-24.png"></br>
+          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/icons8-itch-io-24.png"></br>
           Itch.io
         </div>
       </a>
     </td>
     <td>
-      <a href="https://leetcode.com/gabrieldx/">
+      <a href="https://leetcode.com/alx/">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"></br>
+          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"></br>
           LeetCode
         </div>
       </a>
     </td>
     <td>
-      <a href="https://www.hackerrank.com/gabrieldx">
+      <a href="https://www.hackerrank.com/alxtreme">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/hackerrank_logo_logos_icon.png"></br>
+          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/hackerrank_logo_logos_icon.png"></br>
           HackerRank
         </div>
       </a>
     </td>
     <td>
-      <a href="https://codepen.io/gabrieldx">
+      <a href="https://codepen.io/alxtreme">
         <div>
-          <img src="https://github.com/gabriel18dx/gabriel18dx/blob/main/icons8-codepen-24.png"></br>
+          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/icons8-codepen-24.png"></br>
           Codepen
         </div>
       </a>
