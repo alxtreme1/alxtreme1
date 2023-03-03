@@ -45,14 +45,6 @@
       </a>
     </td>
     <td>
-      <a href="https://leetcode.com/alx/">
-        <div>
-          <img src="https://github.com/alxtreme1/alxtreme1/blob/main/icons8-level-up-your-coding-skills-and-quickly-land-a-job-24.png"></br>
-          LeetCode
-        </div>
-      </a>
-    </td>
-    <td>
       <a href="https://www.hackerrank.com/alxtreme">
         <div>
           <img src="https://github.com/alxtreme1/alxtreme1/blob/main/hackerrank_logo_logos_icon.png"></br>
